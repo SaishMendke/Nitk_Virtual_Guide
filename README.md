@@ -11,5 +11,3 @@ I have created a Java Application for the task "Nitk Virtual Guide"
 * Clubs can login through their credentials and add/delete their respective Club's Events which will be updated on the Mysql database so that the change is seen by everyone.
 
 * Authorities can login and update the Mess Menu and post News. All these changes are reflected onto the main database.
-
-I have attached the video which shows the working of the App.
